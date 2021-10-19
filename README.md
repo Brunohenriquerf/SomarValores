@@ -1,10 +1,18 @@
 # SomarValores
-Calculo simples de adição em JS
+Calculo simples de adição, criado com HTML, CSS e JS.
 
-Apresenta mudanças no style (fonte, tamanho, margem, etc);
-Foram usados inputs para receber os valores;
-Adição de botão para somar;
-Conversão das strings para number;
-Declaração das variáveis;
-Soma das mesmas;
-Adição do resultado ao HTML, formatado dentro de uma string, em negrito.
+ Apresenta:</br>
+-Transições;</br>
+-Inputs;</br>
+-Operadores;</br>
+-Conversão;</br>
+
+
+### Resultado final:
+<img src="Screenshot" alt="Web Version"/>
+
+## 🚀 Rodando
+
+Para iniciar o projeto, abra o arquivo `index.html` em seu navegador preferido.
+
+---
