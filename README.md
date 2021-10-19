@@ -9,7 +9,7 @@ Calculo simples de adição, criado com HTML, CSS e JS.
 
 
 ### Resultado final:
-<img src="Screenshot" alt="Web Version"/>
+<img src="Screenshot.png" alt="Web Version"/>
 
 ## 🚀 Rodando
 
